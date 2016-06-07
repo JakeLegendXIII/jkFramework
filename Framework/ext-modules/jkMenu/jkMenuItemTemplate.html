@@ -1,0 +1,9 @@
+﻿
+<li class="jk-selectable-item" ng-class="{'jk-item-horizontal': !isVertical()}">
+    <div class="jk-noselect">
+        <i class="fa {{icon}} jk-menu-icon"></i>
+        {{label}}
+    </div>
+    <i ng-if="isActive() && isVertical()"
+       class="fa fa-2x fa-caret-left jk-menu-active-indicator"></i>
+</li>

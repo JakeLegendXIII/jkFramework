@@ -1,0 +1,40 @@
+﻿
+<div class="jk-title-bar">
+    <div class="row">
+        <div class="jk-logo-area col-sm-6">
+            <img class="jk-icon" ng-src="{{ iconFile }}" />
+            <div class="jk-title-area">
+                <p class="jk-logo-title">{{ title }}</p>
+                <p class="jk-logo-subtitle">{{ subtitle }}</p>
+            </div>
+
+            <div ng-if="isMenuButtonVisible" ng-click="menuButtonClicked()"
+                 class="jk-collapsed-menu pull-right">
+                <button type="button" class="btn jk-nav-button">
+                    <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+        </div>
+
+        <div class="jk-right-side-controls col-sm-6">
+            <div>
+                <jk-user-profile-small></jk-user-profile-small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<div class="jk-menu-area"
+     ng-show="isMenuVisible"
+     ng-class="{'jk-menu-area-vertical': isMenuVertical, 'jk-menu-area-horizontal': !isMenuVertical}">
+    <jk-user-profile></jk-user-profile>
+</div>-->
+
+<ng-transclude></ng-transclude>
+
+<div ng-view class="jk-view"
+     ng-class="{'jk-view-full-width': !isMenuVertical || !isMenuVisible}">
+</div>
+
+

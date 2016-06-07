@@ -1,0 +1,13 @@
+﻿
+<li class="jk-selectable-item" ng-click="clicked()" ng-class="{'jk-item-horizontal': !isVertical()}">
+    <div class="jk-noselect">
+        <i class="fa {{icon}} jk-menu-icon"></i>
+        {{label}}
+        <i ng-if="isVertical()"
+           class="fa fa-chevron-left jk-group-indicator-left"
+           ng-class="{'fa-rotate-270': isOpen}"></i>
+    </div>
+</li>
+<div ng-show="isOpen" class="jk-subitem-section jk-fade-in-animation" ng-class="{'jk-popup-menu': !isVertical() }">
+    <ul ng-transclude></ul>
+</div>

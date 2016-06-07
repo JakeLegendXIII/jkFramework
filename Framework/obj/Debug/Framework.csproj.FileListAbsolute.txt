@@ -1,0 +1,80 @@
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\csc.exe
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\vbc.exe
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\Framework.dll.config
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\Framework.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\Framework.pdb
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\obj\Debug\Framework.dll
+D:\Projects\Test Applications\PluralSight\Building SPA Framework\Framework\Framework\Framework\obj\Debug\Framework.pdb
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\csc.exe
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\vbc.exe
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\Framework.dll.config
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\Framework.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\Framework.pdb
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\obj\Debug\Framework.dll
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\obj\Debug\Framework.pdb
+D:\Projects\Test Applications\SpaFramework\AngularJSSpaFramework\Framework\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\csc.exe
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\vbc.exe
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\Framework.dll.config
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\Framework.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\Framework.pdb
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\obj\Debug\Framework.dll
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\obj\Debug\Framework.pdb
+D:\Projects\Production Applications\JKFramework\Framework\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\csc.exe
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\vbc.exe
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\Framework.dll.config
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\Framework.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\Framework.pdb
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Prod\jkFramework\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\Projects\Prod\jkFramework\Framework\Framework\obj\Debug\Framework.dll
+D:\Projects\Prod\jkFramework\Framework\Framework\obj\Debug\Framework.pdb

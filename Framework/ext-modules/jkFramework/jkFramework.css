@@ -1,0 +1,137 @@
+﻿
+.jk-title-bar {
+    background-color: white;
+    padding: 0 20px;
+    border-bottom: 2px solid black;
+}
+
+.jk-logo-area {
+    /*text-align: center;*/
+}
+
+.jk-title-area {
+    display: inline-block;
+}
+
+
+
+.jk-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+    vertical-align: top;
+    border: 1px solid #999;
+}
+
+.jk-logo-title {
+    color: #111;
+    margin-top: 6px;
+    font-size: 22px;
+}
+
+.jk-logo-subtitle {
+    font-size: 13px;
+    margin-top: -13px;
+}
+
+@media screen and (max-width: 430px) {
+    .jk-icon {
+        display: none;
+    }
+    .jk-logo-title {
+        font-size: 18px;
+    }
+}
+
+.jk-right-side-controls {
+    line-height: 60px;
+}
+
+.jk-right-side-controls > div {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    .jk-right-side-controls > div {
+        text-align: right;       
+    }
+    .jk-logo-area {
+        text-align: left;
+    }
+}
+
+.jk-collapsed-menu {
+    display: inline-block;
+    height: 100%;
+}
+
+.jk-nav-button {
+    height: 40px;
+    width: 60px;
+    margin-top: 10px;
+    border: 1px solid #888;
+    padding: 0;
+    font-size: 26px;
+    color: #777;
+}
+
+.jk-view {
+    margin-left: 200px;
+    padding: 20px;
+    background-color: #ccc;
+    min-height: 100vh;
+    overflow: auto;
+}
+
+.jk-view-full-width {
+    margin-left: 0;
+}
+
+
+.jk-user-profile {
+    background-color: #333;
+    color: white;
+    width: 200px;
+    min-height: 120px;
+    padding-top: 10px;
+}
+
+.jk-user-profile > div {
+    display: inline-block;
+    padding-top: 10px;
+    margin-left: 5px;
+}
+
+.jk-user-profile > div > p {
+    margin-bottom: 2px;
+}
+
+.jk-user-profile > div > button {
+    margin-top: 8px;
+}
+
+.jk-user-profile img {
+    float: left;
+    margin: 12px;
+    width: 80px;
+    height: 80px;
+}
+
+.jk-user-profile-small {
+    color: #333;
+    padding-top: 4px;
+}
+
+.jk-user-profile-small > span {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.jk-user-profile-small img {
+    width: 40px;
+    height: 40px;
+}
+
+

@@ -1,0 +1,12 @@
+﻿<div class="jk-menu-area"
+     ng-show="showMenu"
+     ng-class="{'jk-menu-area-vertical': isVertical, 'jk-menu-area-horizontal': !isVertical}">
+    <ul class="jk-menu" ng-transclude></ul>
+    <a class="btn jk-menu-layout-button"
+       ng-show="allowHorizontalToggle"
+       ng-class="{'jk-layout-button-horizontal': !isVertical}"
+       ng-click="toggleMenuOrientation()">
+        <i class="fa"
+           ng-class="{'fa-chevron-up': isVertical, 'fa-chevron-left': !isVertical}"></i>
+    </a>
+</div>
