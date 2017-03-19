@@ -1,6 +1,10 @@
 ﻿
 var gulp = require('gulp');
+var cleanCSS = require('gulp-clean-css');
+var uglify = require('gulp-uglify');
+//These are for the dashboard tasks
 var concat = require('gulp-concat');
+var gulpRename = require('gulp-rename');
 var angularFilesort = require('gulp-angular-filesort');
 var strip = require('gulp-strip-line');
 var templateCache = require('gulp-angular-templatecache');
@@ -54,6 +58,9 @@ gulp.task('buildJavaScript', function () {
         .pipe(strip(["use strict"]))
         .pipe(concat('jkFramework.js'))
         .pipe(gulp.dest('./dist/'))
+        .pipe(gulpRename('jkFramework.min.js'))
+        .pipe(uglify())
+        .pipe(gulp.dest('./dist/'))
     ;
 });
 
@@ -63,6 +70,9 @@ gulp.task('buildCSS', function () {
             './ext-modules/**/*.css'
         ])
         .pipe(concat('jkFramework.css'))
+        .pipe(gulp.dest('./dist/'))
+        .pipe(gulpRename('jkFramework.min.css'))
+        .pipe(cleanCSS())
         .pipe(gulp.dest('./dist/'))
     ;
 });

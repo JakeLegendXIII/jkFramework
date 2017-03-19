@@ -11,9 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.0",
+    "gulp-clean-css": "^3.0.4",
     "gulp-angular-filesort": "^1.1.1",
     "gulp-angular-templatecache": "^1.8.0",
     "gulp-concat": "^2.6.0",
-    "gulp-strip-line": "^0.0.1"
+    "gulp-strip-line": "^0.0.1",
+    "gulp-rename": "1.2.2",
+    "pump": "^1.0.2"
   }
 }

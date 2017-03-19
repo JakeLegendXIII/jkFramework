@@ -89,6 +89,8 @@
     <Content Include="Content\ui-bootstrap-csp.css" />
     <Content Include="dist\jkFramework.css" />
     <Content Include="dist\jkFramework.js" />
+    <Content Include="dist\jkFramework.min.css" />
+    <Content Include="dist\jkFramework.min.js" />
     <Content Include="ext-modules\jkDashboard\jkDashboard.css" />
     <Content Include="ext-modules\jkDashboard\jkDashboardDirective.js" />
     <Content Include="ext-modules\jkDashboard\jkDashboardTemplate.html" />
