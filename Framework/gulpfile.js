@@ -2,7 +2,6 @@
 var gulp = require('gulp');
 var cleanCSS = require('gulp-clean-css');
 var uglify = require('gulp-uglify');
-//These are for the dashboard tasks
 var concat = require('gulp-concat');
 var gulpRename = require('gulp-rename');
 var angularFilesort = require('gulp-angular-filesort');
@@ -76,3 +75,7 @@ gulp.task('buildCSS', function () {
         .pipe(gulp.dest('./dist/'))
     ;
 });
+
+gulp.task('buildAllTemplateCache', ['buildFrameworkTemplateCache', 'buildDashboardTemplateCache', 'buildMenuTemplateCache']);
+
+gulp.task('buildDist', ['buildJavaScript', 'buildCSS']);
